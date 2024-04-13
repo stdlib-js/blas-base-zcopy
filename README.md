@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import zcopy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-zcopy@esm/index.mjs';
+import zcopy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-zcopy@v0.1.0-esm/index.mjs';
 ```
 
 #### zcopy( N, x, strideX, y, strideY )
@@ -210,7 +210,7 @@ var im = imag( z );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 import Complex128 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64@esm/index.mjs';
-import zcopy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-zcopy@esm/index.mjs';
+import zcopy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-zcopy@v0.1.0-esm/index.mjs';
 
 function rand() {
     return new Complex128( discreteUniform( 0, 10 ), discreteUniform( -5, 5 ) );
