@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import zcopy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-zcopy@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-base-zcopy/tags). For example,
+
+```javascript
 import zcopy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-zcopy@v0.1.1-esm/index.mjs';
 ```
 
@@ -210,7 +215,7 @@ var im = imag( z );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 import Complex128 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-ctor@esm/index.mjs';
-import zcopy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-zcopy@v0.1.1-esm/index.mjs';
+import zcopy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-zcopy@esm/index.mjs';
 
 function rand() {
     return new Complex128( discreteUniform( 0, 10 ), discreteUniform( -5, 5 ) );
