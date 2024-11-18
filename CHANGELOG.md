@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-17)
+## Unreleased (2024-11-18)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`3327fe6`](https://github.com/stdlib-js/stdlib/commit/3327fe6ecc87dc059a04be79333e83a6cbaa08ee) - **style:** resolve lint error _(by Athan Reines)_
 -   [`75e000c`](https://github.com/stdlib-js/stdlib/commit/75e000ca99d19069677358c0c890b2748fa3074a) - **feat:** add C `ndarray` implementation for `blas/base/zcopy` [(#3081)](https://github.com/stdlib-js/stdlib/pull/3081) _(by Aman Bhansali, Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
