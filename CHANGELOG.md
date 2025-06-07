@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`09c9ceb`](https://github.com/stdlib-js/stdlib/commit/09c9ceb58c6dd23c10f1980094851983c57d693f) - **chore:** fix formatting _(by Athan Reines)_
 -   [`51bf6f9`](https://github.com/stdlib-js/stdlib/commit/51bf6f9d2bb027aacecda87e02f957badbc246b0) - **bench:** fix formatting _(by Athan Reines)_
 -   [`6a08789`](https://github.com/stdlib-js/stdlib/commit/6a08789b6476be6b9e88e17242360c83da70a8cf) - **docs:** change variable naming in `blas/base/zcopy` [(#6821)](https://github.com/stdlib-js/stdlib/pull/6821) _(by Shabareesh Shetty)_
 -   [`5997441`](https://github.com/stdlib-js/stdlib/commit/599744168e3ece421aa012335f90104148aa1a4c) - **docs:** update examples for `blas/base/zcopy` [(#5121)](https://github.com/stdlib-js/stdlib/pull/5121) _(by Gururaj Gurram)_
